@@ -8,7 +8,7 @@ db.sqlite3
 *.pyc
 *.orig
 *venv/*
-*/migrations/0*
+#*/migrations/0*
 venv/*
 *__pycacgit bhe__/*
 .vscode
